@@ -105,5 +105,3 @@ function Navbar() {
 }
 
 export default Navbar;
-
-// Me quede en el 23:14
