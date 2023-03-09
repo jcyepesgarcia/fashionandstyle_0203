@@ -25,18 +25,24 @@ export const sliderItems = [
 export const categories = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    title: "¡CAMISAS CON ESTILO!",
+    img: "https://images.pexels.com/photos/12915517/pexels-photo-12915517.jpeg",
+    title: "MUJER",
   },
   {
     id: 2,
-    img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    title: "AMOR POR LA ROPA CÓMODA",
+    img: "https://images.pexels.com/photos/9050680/pexels-photo-9050680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: "HOMBRE",
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    title: "CHAQUETAS LIGERAS",
+    img: "https://images.pexels.com/photos/3149035/pexels-photo-3149035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: "JUVENIL",
+  },
+  ,
+  {
+    id: 4,
+    img: "https://images.pexels.com/photos/35188/child-childrens-baby-children-s.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: "INFANTIL",
   },
 ];
 
